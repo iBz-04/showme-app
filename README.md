@@ -6,8 +6,8 @@
 
 </div>
 
-div align="center">
-<p> show me is an intelligent macOS mouse companion that understands your screen and can control your computer in-context. </p>
+<div align="center">
+<p> An intelligent macOS mouse companion that understands your screen and can control your computer in-context. </p>
 
 </div>
 
